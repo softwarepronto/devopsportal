@@ -1,22 +1,4 @@
 # Introduction 
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
-
-# Getting Started
-TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
-1.	Installation process
-2.	Software dependencies
-3.	Latest releases
-4.	API references
-
-# Build and Test
-docker build -t devops:v1 .
-docker images
-docker run -it --rm -p 8080:80 devops:v1
-docker ps
-docker kill <containerID>
-docker rm <containerID>
-
-# Contribute# Introduction
 Implement [marufaytekin/hello-world](https://github.com/marufaytekin/hello-world) 
 
 # Getting Started
@@ -25,6 +7,7 @@ Implement [marufaytekin/hello-world](https://github.com/marufaytekin/hello-world
 3.	Install C# Extension
 4.	Install Docker Extension
 5.	Optional: Install PowerShell Extension
+
 Note: Tested on Windows 10
 
 # Build and Test
